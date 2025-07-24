@@ -1,6 +1,4 @@
-# FAcodec
-
-This project is supported by [Amphion](https://github.com/open-mmlab/Amphion).
+# Codec
 
 Pytorch implementation for the training of FAcodec, which was proposed in paper [NaturalSpeech 3: Zero-Shot Speech Synthesis
 with Factorized Codec and Diffusion Models](https://arxiv.org/pdf/2403.03100)  
